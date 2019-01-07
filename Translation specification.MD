@@ -26,3 +26,5 @@
 |---|---|
 |dependent variable|因变量|
 |independent variable|自变量|
+
+自己研究
